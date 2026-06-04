@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+._*
+
+# MATLAB
+*.m~*
+*.asv
+
+# Temporary files
+*~
