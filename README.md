@@ -17,9 +17,9 @@ Comprehensive test dataset for actuator dynamics identification, covering both s
 
 | Dataset | Input | Samples | Description |
 |---|---|---|---|
-| [Servo Sweep-Frequency](servo/sweep_test_dataset/) | `sweep_data.csv` | 67,505 | Chirp excitation from 0 → ~8.4 Hz |
-| [Servo Step-Response](servo/step_test_dataset/) | `step.csv` | ~575,000 | Step position commands at 250 Hz |
-| [Motor Step-Response](motor/motor_test_dataset/) | `fb1.xlsx` – `fb16.xlsx` | ~300,000 | PWM throttle steps across 16 experiments |
+| [Servo Sweep-Frequency](servo/sweep_test_dataset/) | `sweep_data.csv` | 
+| [Servo Step-Response](servo/step_test_dataset/) | `step.csv` | ~575,000 |
+| [Motor Step-Response](motor/motor_test_dataset/) | `fb1.xlsx` – `fb16.xlsx` |
 
 ## Quick Start
 
