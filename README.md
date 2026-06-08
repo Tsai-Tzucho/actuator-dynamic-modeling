@@ -18,7 +18,7 @@ Comprehensive test dataset for actuator dynamics identification, covering both s
 | Dataset | Input | Samples |
 |---|---|---|
 | [Servo Sweep-Frequency](servo/sweep_test_dataset/) | `sweep_data.csv` | 
-| [Servo Step-Response](servo/step_test_dataset/) | `step.csv` | ~575,000 |
+| [Servo Step-Response](servo/step_test_dataset/) | `step.csv` |
 | [Motor Step-Response](motor/motor_test_dataset/) | `fb1.xlsx` – `fb16.xlsx` |
 
 ## Quick Start
