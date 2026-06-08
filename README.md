@@ -15,7 +15,7 @@ Comprehensive test dataset for actuator dynamics identification, covering both s
 
 ## Sub-Datasets
 
-| Dataset | Input | Samples | Description |
+| Dataset | Input | Samples |
 |---|---|---|---|
 | [Servo Sweep-Frequency](servo/sweep_test_dataset/) | `sweep_data.csv` | 
 | [Servo Step-Response](servo/step_test_dataset/) | `step.csv` | ~575,000 |
